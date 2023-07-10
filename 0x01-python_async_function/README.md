@@ -1,6 +1,9 @@
 ## 0x01. Python - Async
 `Python`  `Back-end`
 
+![](http://djangostars.com/blog/content/images/2017/04/async_by_molen.png)
+
+- [ASYN](https://www.linux.com/training-tutorials/asynchronous-programming-python-asyncio-0/)
 
 ## Resources
 
